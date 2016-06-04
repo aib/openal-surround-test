@@ -1,0 +1,4 @@
+This is a sample C program that plays a 440 Hz sine wave orbiting the listener using OpenAL.
+
+Compiling:
+gcc -O2 -Wall main.c -lopenal -lm
